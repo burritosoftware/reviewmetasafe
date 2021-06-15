@@ -79,5 +79,4 @@ if (ret_source) {
 	
 }
 
-//alert('Target UrL: ' + target_url + ' ret_source: ' + ret_source + ' productSource: ' + productSource);
 window.open(target_url, '_blank');
